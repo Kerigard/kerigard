@@ -33,7 +33,7 @@ I`m Vladislav, Full Stack Developer from Russia.
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
-  <img alt="Microsoft SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white">
+  <img alt="Microsoft SQL" src="https://img.shields.io/badge/Microsoft%20SQL-CC2927.svg?logo=microsoft-sql-server&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
 </p>
 
