@@ -12,7 +12,7 @@ I`m Vladislav, Full Stack Developer from Russia.
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/XAML-0C54C2.svg?logo=xaml&logoColor=white">
+  <img alt="XAML" src="https://img.shields.io/badge/XAML-0C54C2.svg?logo=xaml&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=amazon-dynamodb&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-FFB13B.svg?logo=svg&logoColor=black">
@@ -35,6 +35,7 @@ I`m Vladislav, Full Stack Developer from Russia.
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
   <img alt="Microsoft SQL" src="https://img.shields.io/badge/Microsoft%20SQL-CC2927.svg?logo=microsoft-sql-server&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
+  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01.svg?logo=clickhouse&logoColor=white">
 </p>
 
 ### 💻 Software and tools
@@ -44,6 +45,7 @@ I`m Vladislav, Full Stack Developer from Russia.
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
   <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white">
 </p>
