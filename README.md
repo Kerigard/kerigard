@@ -15,7 +15,7 @@ I`m Vladislav, Full Stack Developer from Russia.
   <img alt="XAML" src="https://img.shields.io/badge/XAML-0C54C2.svg?logo=xaml&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=amazon-dynamodb&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-  <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-FFB13B.svg?logo=svg&logoColor=black">
+  <img alt="SVG / XML" src="https://img.shields.io/badge/SVG%20%2F%20XML-FFB13B.svg?logo=svg&logoColor=black">
 </p>
 
 
@@ -25,7 +25,7 @@ I`m Vladislav, Full Stack Developer from Russia.
   <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white">
   <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white">
-  <img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-512BD4?logo=.net&logoColor=white">
+  <img alt="WPF / WinUI" src="https://img.shields.io/badge/WPF%20%2F%20WinUI-512BD4?logo=.net&logoColor=white">
 </p>
 
 ### 🗄️ Databases
