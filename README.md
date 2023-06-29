@@ -51,4 +51,4 @@ I`m Vladislav, Full Stack Developer from Russia.
 </p>
 
 ### 📈 My github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerigard&hide=stars&count_private=true&show_icons=true&theme=vue)](https://github.com/Kerigard)
+[![Kerigard GitHub stats](https://github-readme-stats.vercel.app/api?username=kerigard&hide=stars&count_private=true&show_icons=true&theme=vue)](https://github.com/Kerigard)
